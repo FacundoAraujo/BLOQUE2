@@ -1,7 +1,10 @@
 # BLOQUE2
 DESAFIOS
- <!--PILOTO 
 
+
+
+## PILOTO
+~~~
 <script>
 
 const nombreDelGrupo =prompt("Ingresa el nombre del grupo");
@@ -9,7 +12,7 @@ const edad =parseInt(prompt("Ingresa tu edad :)"));
 
 console.log("El nombre del grupo es " + nombreDelGrupo + " " + edad);
 </script>
--->
+~~~
 
   <!--BASIC
 
